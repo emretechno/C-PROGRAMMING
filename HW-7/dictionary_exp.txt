@@ -1,0 +1,6 @@
+num_words=5, vector_size=3
+student	-0.2 0.5 1.0
+course -1.0	0.2	0.7
+car -0.1 0.9 1.2
+bus -0.2 0.8 1.1
+instructor -0.3 0.6 0.9

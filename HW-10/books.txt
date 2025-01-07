@@ -1,0 +1,17 @@
+968961,Yaprak Dokumu,Resat Nuri Guntekin,1930,Borrowed
+968957,Sol Ayagim,Christy Brown,1955,Available
+968814,Kurk Mantolu Madonna,Sabahattin Ali,1866,Available
+968649,Suc Ve Ceza,Dostoyevski,1866,Available
+968513,Kumarbaz,Dostoyevski,1879,Borrowed
+968512,Kroycer Sonat,Tolstoy,1889,Available
+967945,Mutluluk,Zulfu Livaneli,2002,Borrowed
+967617,Saatleri Ayarlama Enstitusu,Ahmet Hamdi Tanpinar,1910,Available
+967541,Mucizevi Mandarin,Omer Seyfettin,1912,Available
+966831,Momo,Michael Ende,1973,Available
+966781,Kuyruklu Yildiz Ucgeni,Aziz Nesin,1974,Available
+965145,Kutadgu Bilig,Yusuf Has Hacib,1070,Available
+964542,Kucuk Seyler,Cemil Kavukcu,1961,Available
+964214,Kuyucakli Yusuf,Sabahattin_Ali,1937,Available
+963309,Savas Ve Baris,Tolstoy,1867,Borrowed
+961204,Ucan Sinif,Erich Kastner,1933,Available
+961107,Calikusu,Resat Nuri Guntekin,1932,Available

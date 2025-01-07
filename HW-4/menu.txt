@@ -1,0 +1,16 @@
+------- THE MENU-----
+PRODUCT:    PRICE(TL)
+1->Kebap        75.99
+2->Lahmacun     21.50
+3->Pide         40.00
+4->Doner        55.60
+5->Kola         15.00
+6->Su            5.00
+7->Kunefe       60.00
+8->Sutlac       32.50
+9->Manti        58.58
+10->Hamburger   34.34
+11->Kavurma     58.34
+12->Guvec      120.58
+
+@
