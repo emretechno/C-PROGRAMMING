@@ -1,0 +1,2 @@
+pID,Minimum Stock , Maximum stock , Median stock
+2,19,150,33

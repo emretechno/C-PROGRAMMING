@@ -1,0 +1,11 @@
+pID,Type,Name,Brand,Price
+1,D,Ayran,Sutas,20.50
+2,F,Simit,Firin,8.00
+3,E,Kola,Pepsi,4.50
+4,K,Sut,Sek,18.99
+5,B,Su,Sirma,2.99
+6,E,Deneme,Dene,9.99
+7,U,Silgi,Nok,7.55
+8,D,ENE,ME,25.25
+9,K,Kagit,Kirt,20.00
+10,U,Laptop,Mac,100.00

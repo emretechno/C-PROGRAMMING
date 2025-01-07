@@ -1,0 +1,15 @@
+sID,pID,branch,current_stock
+1,7,Istanbul,100
+2,5,Ankara,13
+3,7,Bursa,31
+4,12,Istanbul,120
+5,9,Ankara,50
+6,9,Bursa,0
+7,15,Bursa,0
+8,12,Istanbul,150
+9,1,Ankara,200
+10,5,Istanbul,18
+11,2,Istanbul,150
+12,2,Ankara,19
+13,2,Ankara,31
+14,2,Ankara,35
